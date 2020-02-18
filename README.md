@@ -1,3 +1,12 @@
-#This is a title
+# This is a title
 
-Hello there. This is some text. 
+## Title 2
+
+Hello there. This is some text.
+
+This is great!
+
+
+# Markdown
+
+We will use this to keep track of our notes
